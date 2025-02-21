@@ -1,16 +1,5 @@
-# quiz_app
+Aplicativo de Quizz de Verdadeiro ou Falso para estudar Listas, Condicionais, Classes e Objetos,Abstração, Polimorfismo, Herança, Pegar pacotes no https://pub.dev/packages e construtor de classe
 
-QuizzApp flutter-dart
+![image](https://github.com/user-attachments/assets/f0c1f30d-6446-4321-85d7-c47fa98e871b)
+![image](https://github.com/user-attachments/assets/dd1a3e49-e560-4022-aae8-ad8940b00b4a)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
